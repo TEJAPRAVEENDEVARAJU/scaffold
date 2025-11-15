@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 10_32_32 AM" src="https://github.com/user-attachments/assets/d528463b-ac3d-402f-b112-c9dc5a940cc0" /> 
- 
 # AutoApply — Multi-Agent Job Application Assistant
 
 ## Overview
@@ -41,4 +39,4 @@ It’s a multi-agent system built with ADK-Python demonstrating sequential & par
 
 <img width="1024" height="1536" alt="ChatGPT Image Nov 15, 2025, 10_28_25 AM" src="https://github.com/user-attachments/assets/6462bd21-d9e8-48f0-b1fb-e219b318c161" />
 
-`![Uploading ChatGPT Image Nov 15, 2025, 10_32_32 AM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 10_32_32 AM" src="https://github.com/user-attachments/assets/d528463b-ac3d-402f-b112-c9dc5a940cc0" /> 
