@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+playwright
+jinja2
+pandas
+python-dotenv
+loguru
